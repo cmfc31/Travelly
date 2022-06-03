@@ -10,4 +10,4 @@ Travelly is a small landing page for a fictional travel agency made using HTML, 
 You can run this project on VS Code with LiveServer extension.
 
 ## Preview
-![alt text](img/screenshot.jpg)
+![alt text](img/screenshot.png)
