@@ -1,4 +1,3 @@
-
 # Travelly
 
 Travelly is a small landing page for a fictional travel agency made using HTML, flexbox grid and CSS.
